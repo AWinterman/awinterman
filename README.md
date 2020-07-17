@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi!
+
+I'm a professionally software engineer whose worked with Java, Python, Jabbascript and Kotlin. I'm full time employed, and these days, no longer maintain open source or side projects, except as part of my job. Get that work life balance.
+
 
 <!--
 **AWinterman/awinterman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
